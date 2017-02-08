@@ -19,8 +19,8 @@ TWITTER_ACCESS_TOKEN_SECRET = getenv("TWITTER_ACCESS_TOKEN_SECRET")
 
 # The keys for the Twitter app we're using for API requests
 # (https://apps.twitter.com/app/13239588). Read from environment variables.
-TWITTER_CONSUMER_KEY = getenv("TWITTER_CONSUMER_KEY")
-TWITTER_CONSUMER_SECRET = getenv("TWITTER_CONSUMER_SECRET")
+TWITTER_CONSUMER_KEY = getenv("8dnL2nKWU4i5CeOibQxHVS3Z4")
+TWITTER_CONSUMER_SECRET = getenv("9N3W30QxZMYSJJ3uM0zuyMg2j3psnm8J4lRpXgztY8a6TNXwCS")
 
 # The user ID of @realDonaldTrump.
 TRUMP_USER_ID = "25073877"
